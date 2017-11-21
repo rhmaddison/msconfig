@@ -1,0 +1,8 @@
+# Lab 4 YAML file
+eureka:
+  client:
+    serviceUrl:
+      defaultZone:
+        http://localhost:8010/eureka/
+ 
+ 
