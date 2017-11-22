@@ -1,0 +1,8 @@
+# Lab 8 YAML file
+---
+wordConfig:
+  preamble: The lucky word is...
+  luckyWord: Bourbon biscuits
+
+
+   
